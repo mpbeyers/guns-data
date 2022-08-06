@@ -15,7 +15,8 @@ np.add.at(counts, i, 1)
 #plot results
 plt.plot(bins, counts, linestyle='steps');
 
-##making another note  Will try to push...
+
 #Making another change for saving on a new branch
 #one more update to add to Updates folder
 #adding more stuff here too!
+#Removing one line above - #18
