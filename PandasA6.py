@@ -92,8 +92,4 @@ Q9 = tips.pivot_table(index='sex', columns='smoker',
 Q9
 
 
-# In[ ]:
-
-
-
-
+#adding a note: commit to github
